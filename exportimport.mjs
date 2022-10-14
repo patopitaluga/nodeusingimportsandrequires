@@ -1,3 +1,6 @@
+console.log('Scripts in exportimport.mjs file.');
+console.log('');
+
 export default function functionName() {
-  console.log('With import');
+  console.log('Function imported using "import"');
 }

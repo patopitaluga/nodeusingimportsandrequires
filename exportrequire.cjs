@@ -1,3 +1,6 @@
+console.log('Scripts in exportrequire.cjs file.');
+console.log('');
+
 module.exports = () => {
-  console.log('With require');
+  console.log('Function imported using "require"');
 }
